@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">VoltTorrent</string>
+    <string name="nav_downloads">Загрузки</string>
+    <string name="nav_catalog">Каталог</string>
+    <string name="nav_controls">Лимиты</string>
+    <string name="action_add_torrent">Добавить торрент</string>
+    <string name="action_paste_magnet">Вставить Magnet</string>
+    <string name="action_open_torrent_file">Выбрать .torrent</string>
+    <string name="action_open_catalog">Демо-каталог</string>
+    <string name="action_pause">Пауза</string>
+    <string name="action_resume">Возобновить</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_back">Назад</string>
+    <string name="empty_downloads_title">Очередь пуста</string>
+    <string name="empty_downloads_subtitle">Вставьте Magnet-ссылку, откройте .torrent-файл или протестируйте движок на легальных раздачах из каталога.</string>
+    <string name="notification_channel_transfers_name">Активные загрузки</string>
+    <string name="notification_channel_transfers_desc">Статус и скорость работы торрент-движка в фоне</string>
+    <string name="notification_channel_alerts_name">События и таймер</string>
+    <string name="notification_channel_alerts_desc">Уведомления о завершении загрузок и срабатывании таймера</string>
+    <string name="error_invalid_magnet">Некорректная Magnet-ссылка. Убедитесь, что она начинается с magnet:?xt=urn:btih:</string>
+    <string name="error_invalid_torrent_file">Не удалось прочитать выбранный .torrent-файл</string>
+    <string name="status_downloading">Загрузка</string>
+    <string name="status_seeding">Раздача</string>
+    <string name="status_paused">Пауза</string>
+    <string name="status_metadata">Поиск пиров</string>
+    <string name="status_checking">Проверка</string>
+    <string name="status_completed">Завершено</string>
+    <string name="status_queued">В очереди</string>
+    <string name="status_error">Ошибка</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "VoltTorrent",
+  "description": "Ad-free Deep OLED BitTorrent downloader with real-time peer and tracker telemetry, speed graphs, bandwidth limits, and download timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
